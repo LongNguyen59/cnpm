@@ -2,7 +2,3 @@ hello
 
 Minh la Long day
 OK
-<<<<<<< HEAD
-=======
-Sua o dong nay
->>>>>>> 9a068addc1ab097ec0d3734152fed7168bcbbc45
